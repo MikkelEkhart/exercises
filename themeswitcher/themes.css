@@ -1,0 +1,31 @@
+body[data-theme="hawaii"] {
+  --header-bg-col: #ff6f91;
+  --main-bg-col: #ffe6ac;
+  --footer-bg-col: #ffb6c1;
+  --text-color: #222222;
+  --border-col: #ff1493;
+}
+
+body[data-theme="dark"] {
+  --header-bg-col: #1f2833;
+  --main-bg-col: #0b0c10;
+  --footer-bg-col: #1a1a24;
+  --text-color: #c5c6c7;
+  --border-col: #45a29e;
+}
+
+body[data-theme="light"] {
+  --header-bg-col: #ffffff;
+  --main-bg-col: #f4f4f9;
+  --footer-bg-col: #e0e0e0;
+  --text-color: #333333;
+  --border-col: #cccccc;
+}
+
+body[data-theme="nature"] {
+  --header-bg-col: #4caf50;
+  --main-bg-col: #f1f8e9;
+  --footer-bg-col: #2e7d32;
+  --text-color: #1b5e20;
+  --border-col: #81c784;
+}
